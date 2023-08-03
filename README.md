@@ -1,3 +1,5 @@
+[![Python](https://img.shields.io/badge/Python-text-3776AB?style=for-the-badge&logo=Python)](https://www.python.org/)
+
 # Face Mask Detection in Python
 
 This is a README file that provides instructions on how to perform face detection in Python using the OpenCV library.
