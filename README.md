@@ -1,5 +1,4 @@
-[![Python](https://img.shields.io/badge/Python-3.7.0-3776AB?style=for-the-badge&logo=Python)](https://www.python.org/)
-
+[![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 # Face Mask Detection in Python
 
